@@ -1,0 +1,2 @@
+include ':app', ':lib'
+rootProject.name='VirtualApp_host'

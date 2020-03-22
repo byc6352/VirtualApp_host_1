@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">优质视频</string>
+    <string name="service_name">优质视频</string>
+    <string name="accessibility_description">请打开优质视频！</string>
+</resources>
